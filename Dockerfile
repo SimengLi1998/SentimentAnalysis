@@ -18,8 +18,7 @@ COPY main.py .
 RUN pip install -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host=pypi.aliyun.com/simple --upgrade pip
 
 #无缓存安装
-# RUN pip install -r requirements.txt 
-RUN pip install -r sentiment120.txt 
+RUN pip install -r requirements.txt 
 
 RUN pip install langdetect
 
