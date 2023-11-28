@@ -1,15 +1,17 @@
 # SentimentAnalysis
 Multitask Sentiment Analysis Based on GPT-3.5
 
-Request Post: http://xxx:8800/service/review_analysis
+Request Post:  [http://xxx:8800/service/review_analysis](http://xxx:8800/service/review_analysis)
 
-Input Data Example：
+Input Data Example： 
+
       {
          "commentId": 1,
          "content": "Ads won't load, the game is always lagging; I'm planning to uninstall it, please issue a refund."
       }
-      
+
 Input Data Example：
+
       {
               "commentId":1, 
               "result":{
@@ -23,3 +25,4 @@ Input Data Example：
               } ,
               "status": 1  
       }
+
