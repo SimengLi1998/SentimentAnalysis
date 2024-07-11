@@ -1,4 +1,7 @@
 # Sentiment Analysis Based on GPT-3.5
+[![License](https://img.shields.io/github/license/SimengLi1998/SentimentAnalysis)](https://github.com/SimengLi1998/SentimentAnalysis/blob/master/LICENSE)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+
 Multitask Sentiment Analysis Based on GPT-3.5
 
 ![image](https://github.com/SimengLi1998/SentimentAnalysis/assets/87021559/56e39a24-199c-4299-bf09-547ac8368892)
